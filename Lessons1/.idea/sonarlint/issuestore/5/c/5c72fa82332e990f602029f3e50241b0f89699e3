@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›Ó«8æ¤âèı1J$f68eb734-ee14-4873-b747-c581e538a762
+l	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8ô¤âèı1J$1438662d-43e2-4884-b3db-5be1669591f4
+~	java:S125""<This block of commented-out lines of code should be removed.(¢üÖÆ8ô¤âèı1J$afdcca5d-0d5e-4181-9307-f255c6c1321f
+ƒ	java:S125("<This block of commented-out lines of code should be removed.(ü›ÿûÿÿÿÿ8ô¤âèı1J$7a74076d-bb6c-49c6-b286-65ed1344fbfb
+
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty'.(ËÃ§Ï8ƒßòı1J$5db6feac-2a84-4b07-a6c2-d5b9342ef2bb
+
+java:S1128"KRemove this unused import 'com.fasterxml.jackson.annotation.JsonUnwrapped'.(ºå˜Å8ƒßòı1J$52fa705d-32ca-487a-a42a-40dc4bcbd656
+‰
+java:S1128"FRemove this unused import 'com.fasterxml.jackson.annotation.JsonView'.(Â„Ê¬8ƒßòı1J$0faebf70-8a18-45b5-b322-3aaf1f453f33
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8„ßòı1J$e0ec3fe3-1645-4c61-9801-0869171d076b

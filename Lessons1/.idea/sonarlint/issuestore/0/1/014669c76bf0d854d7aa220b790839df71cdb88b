@@ -1,0 +1,10 @@
+
+Œ
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾J$7cbd6581-1f75-4bfb-84d3-8abcf4ff422a
+“
+java:S1104	"RMake weight a static final constant or non-public and provide accessors if needed.(©ì¹ûÿÿÿÿJ$80abc590-59c8-4f51-931b-1c2437fa6dca
+‹
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿J$db73bba1-1840-48ed-9426-95d63b66505d
+’
+java:S1104"VMake properties a static final constant or non-public and provide accessors if needed.(ùéJ$8a3f44a8-9ca3-4a24-bca6-ca3755ea31b2
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›Ó«J$df5c1f63-b11c-4d68-a113-4a862d88cfb3
